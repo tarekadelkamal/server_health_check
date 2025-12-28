@@ -13,4 +13,7 @@ This project is a simple tool to monitor the health of servers, including CPU, m
 1. Clone the repository:
    ```bash
    git clone https://github.com/tarekadelkamal/server_health_check.git
+2. Usage:
+   ```bash
+   ./server_health_check.sh  -h
 
